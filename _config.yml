@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: 1226729094@qq.com
 description: "从此再也不缺资料和工具"
 keyword: "HOPE的个人博客"
-url: "https://github.com/euphrat1ca/fuzzdb-collect"          # your host, for absolute URL
+url: ""          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/euphrat1ca/fuzzdb-collect.git" # you code repository
+github_repo: "" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
